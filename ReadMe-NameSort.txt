@@ -1,6 +1,6 @@
 Name Sorting
 
-1) To run the console app, go to PersonSort.java and hit Run.
+1) To run the console app, go to PersonSort.java and hit Run. (Note: pls force update local mvn repo for junit lib) 
 2) Enter the full path of the input text file. For simplicity, we will just use .txt files
 
 ===================
